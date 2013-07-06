@@ -193,6 +193,7 @@ end
 
 counter = 1
 while counter <= 5 do
+  counter += 1
   puts "iteration #{counter}"
 end
 #=> iteration 1
